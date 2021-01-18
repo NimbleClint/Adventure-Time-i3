@@ -1,8 +1,8 @@
 # NimbleClint's Dotfiles
 ## i3-Gaps and Polybar
-![NimbleClint's i3 Desktop](screenshots/i3screenshots/adventureTime_i3Polybar_desktop.png)
-![NimbleClint's i3 Terminals](screenshots/i3screenshots/adventureTime_i3Polybar_terminals.png)
-![NimbleClint's i3 Menus](screenshots/i3screenshots/adventureTime_i3Polybar_blender.png)
+![NimbleClint's i3 Desktop](screenshots/adventureTime_i3Polybar_desktop.png)
+![NimbleClint's i3 Terminals](screenshots/adventureTime_i3Polybar_terminals.png)
+![NimbleClint's i3 Menus](screenshots/adventureTime_i3Polybar_blender.png)
 
 
 ### Installation Notes
@@ -35,7 +35,8 @@ Polybar |
 
 Rofi Menus |
 ---- |
-[Rofi Applets](https://github.com/adi1090x/rofi)(Powermenu included, launcher not included) |
+[Rofi Applets](https://github.com/adi1090x/rofi)
+(Powermenu included, launcher not included) |
 
 Fonts |
 ---- |
