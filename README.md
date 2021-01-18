@@ -8,6 +8,15 @@
 ### Installation Notes
 Welcome to my i3/polybar configuration. Please note that these files are not logner being updated and are provided as is. Some rofi files are missing but there is a link below on where to grab them. Everything else should be there, but will likely need some tweaking to get working.
 
+These dotfiles are set up to use GNU stow for installation. To install, first **MAKE SURE YOUR EXISTING CONFIG FILES ARE BACKED UP.** Once you have done that, make sure GNU Stow is installed on your system, then:
+- Clone this repo somewhere on your drive
+- cd into the cloned repo
+- Enter the command (leave out folders you don't want):
+
+~~~~
+stow dunst picom i3 polybar rofi
+~~~~
+
 WPGTK has been used to manage several of the files, such as the rofi menus, dunst, and i3 itself. These files have warning up top to indicate that they should be modified by editing the WPGTK template rather than the .config file.
 
 
