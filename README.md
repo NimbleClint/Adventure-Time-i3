@@ -1,5 +1,4 @@
-# NimbleClint's Dotfiles
-## i3-Gaps and Polybar
+# Adventure Time i3-Gaps/Polybar
 ![NimbleClint's i3 Desktop](screenshots/adventureTime_i3Polybar_desktop.png)
 ![NimbleClint's i3 Terminals](screenshots/adventureTime_i3Polybar_terminals.png)
 ![NimbleClint's i3 Menus](screenshots/adventureTime_i3Polybar_blender.png)
